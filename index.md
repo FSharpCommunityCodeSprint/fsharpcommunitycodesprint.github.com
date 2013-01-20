@@ -1,46 +1,31 @@
 ---
-layout: page
-title: Hello World!
-tagline: Supporting tagline
+layout: hero
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## Why code sprints ?
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+* You want to learn about F#, not just by the book, but by getting the expert's trick as well ?
+* You already know F# and would like to help the community, but getting to a codebase seems daunting ? 
+* You are an expert and wish the community took a bit of ownership to polish your hard work ?
 
 
+<hr>
+So let's get together to improve F# ecosystem !
+<hr>
+
+Whatever our F# proficiency is, we can all bring something on the table.
+Testing installations, filling some documentation, producing nice examples.
+
+In the process, this will shoot two birds at once : 
+
+* helping to polish open source parts useful for the F# ecosystem
+* and learning cool tricks from the bests along the way
+
+
+
+So find out how to prepare by reading the 'about' section, and get ready for the
+<a class="btn btn-primary" href="nextsprint.html">
+              Next sprint »
+</a>
