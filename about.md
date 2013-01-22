@@ -32,7 +32,7 @@ For every sprint :
 
 * Make sure you have a [github account](https://github.com/signup/free), (you might want to set it up further by reading their advices [here](https://help.github.com/articles/set-up-git) and [there](https://help.github.com/articles/generating-ssh-keys)
 * Read [a little about git](http://learn.github.com/p/intro.html) 
-* Read about the recommended stack below
+* Read about the [recommended stack](stack.html)
 * Read about the project, may be try to set it up and work through example
 
 The more you prepare, the more the group will be efficient. 
