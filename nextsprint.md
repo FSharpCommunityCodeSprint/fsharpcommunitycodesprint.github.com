@@ -8,22 +8,33 @@ group: navigation
 
 ## What is the next sprint about ?
 
-You can vote for what the next sprint will work on the [Doodle survey](http://doodle.com/tqc9k54z4spvyb42)
+The majority has spoken !
 
-As of now, we have 3 project we could work on :
+The next sprint, will be held on** Saturday 9th of february** 2013 starting from **10am** ! It will focus on helping out with 
 
-* The Open Source Editor integration / [which is here](https://github.com/fsharp/fsharpbinding) and which was recently enhanced to support Emacs
-* Tomas's FSharp.Formatting / [which is here](http://tpetricek.github.com/FSharp.Formatting/demo.html)
-* [Fsharpx](https://github.com/fsharp/fsharpx/issues) has some issues that can be worked onm and probably some other that can be documented
+#Open source editor integration
 
-And you can submit your ideas as well.
-
-So which one will it be ? Which one is the best to be polished/manipulated ?
+This is the occasion for you to **get real** and hands-on with F#, learn from the bests, and be **enabled** to author and contribute to F#
 
 
-## When will it be ?
+---
 
-You can write your availability on the [Doodle time survey](http://doodle.com/46w8dgq2vaq8a8un)
-Put all the time that fits for you, then we'll try to maximize whatever suits best for all
+On small glitch is that Google's place is already booked that date !
+
+Please watch in here or on the [open source f# google group](https://groups.google.com/forum/?fromgroups=#!forum/fsharp-opensource) for updates on the place.
+
+
+We are learning and asked if they can supply a updated calendar in the future.
+Meanwhile we are looking for a place for around 5-10 people (the first sprint will be limited but everyone is welcome) ideally halfway between Padington and Kings Cross, in order to accomodate for all. **Suggestion/Booking welcome !**
+
+
+
+------
+
+
+
+
+
+You can still see results and cast your votes on the [Doodle survey](http://doodle.com/tqc9k54z4spvyb42) and time suvey is on [here as well](http://doodle.com/46w8dgq2vaq8a8un)
 
 
