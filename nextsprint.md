@@ -1,31 +1,34 @@
 ---
 layout: page
-title: "Next Sprint !"
+title: "Next Sprint!"
 description: ""
 group: navigation
 ---
 {% include JB/setup %}
 
-## What is the next sprint about ?
+# What is the next sprint about?
 
-The majority has spoken !
+The majority has spoken!
 
-The next sprint, will be held on** Saturday 9th of february** 2013 starting from **10am** ! It will focus on helping out with 
+The next sprint, will be held on **Saturday 9th of February** 2013 starting from **10am**! It will focus on helping out with 
 
-#Open source editor integration
+## Open source editor integration
 
-This is the occasion for you to **get real** and hands-on with F#, learn from the bests, and be **enabled** to author and contribute to F#
+This is the occasion for you to **get real** and hands-on with F#, learn from the best, and be **enabled** to author and contribute to F#
 
 
 ---
 
-On small glitch is that Google's place is already booked that date !
+# Where is the next sprint?
 
-Please watch in here or on the [open source f# google group](https://groups.google.com/forum/?fromgroups=#!forum/fsharp-opensource) for updates on the place.
+We're based at the [Rapid Innovation Group](http://www.rapidinnovation.co.uk/)'s offices in London, 5 minutes walk from Holborn underground station. We have the use of the first floor, including two large conference rooms and a kitchen, with whiteboards and wifi.
 
+**Address:**
+> 14 Red Lion Square  
+> London  
+> WC1R 4QH
 
-We are learning and asked if they can supply a updated calendar in the future.
-Meanwhile we are looking for a place for around 5-10 people (the first sprint will be limited but everyone is welcome) ideally halfway between Padington and Kings Cross, in order to accomodate for all. **Suggestion/Booking welcome !**
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=14+Red+Lion+Square+London+WC1R+4QH&amp;aq=&amp;sll=51.5341,-0.118428&amp;sspn=0.130914,0.363579&amp;ie=UTF8&amp;hq=&amp;hnear=14+Red+Lion+Square,+London+WC1R+4QF,+United+Kingdom&amp;t=m&amp;z=14&amp;ll=51.519047,-0.118429&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=14+Red+Lion+Square+London+WC1R+4QH&amp;aq=&amp;sll=51.5341,-0.118428&amp;sspn=0.130914,0.363579&amp;ie=UTF8&amp;hq=&amp;hnear=14+Red+Lion+Square,+London+WC1R+4QF,+United+Kingdom&amp;t=m&amp;z=14&amp;ll=51.519047,-0.118429" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 
 
@@ -35,6 +38,6 @@ Meanwhile we are looking for a place for around 5-10 people (the first sprint wi
 
 
 
-You can still see results and cast your votes on the [Doodle survey](http://doodle.com/tqc9k54z4spvyb42) and time suvey is on [here as well](http://doodle.com/46w8dgq2vaq8a8un)
+You can still see results and cast your votes on the [Doodle survey](http://doodle.com/tqc9k54z4spvyb42) and time survey is on [here as well](http://doodle.com/46w8dgq2vaq8a8un).
 
 
