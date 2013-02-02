@@ -9,9 +9,7 @@ group: navigation
 ## Where ?
 
 
-The good folks of Google have put a [working space](http://www.campuslondon.com/workspace/) in London, which is probably the most central place to potential joiners.
-
-Furthermore, London is easily accessible from Cambridge, Oxford, and other unrecommendable places.
+The [Rapid Innovation Group](http://www.rapidinnovation.co.uk/) have kindly offered to let us use their offices in Holborn, which is easily accessible from around London, as well as from Cambridge, Oxford, and other unrecommendable places.
 
 
 ## When ?
