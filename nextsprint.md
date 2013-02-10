@@ -8,13 +8,7 @@ group: navigation
 
 # What is the next sprint about?
 
-The majority has spoken!
-
-The next sprint, will be held on **Saturday 9th of February** 2013 starting from **10am**! It will focus on helping out with 
-
-## Open source editor integration
-
-This is the occasion for you to **get real** and hands-on with F#, learn from the best, and be **enabled** to author and contribute to F#
+The date and theme of the next sprint are yet to be announced. Join the <a href="http://groups.google.com/group/fsharp-opensource">F# Open Source mailing list</a> to receive updates.
 
 
 ---
