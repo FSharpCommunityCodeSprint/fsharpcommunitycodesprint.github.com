@@ -8,7 +8,9 @@ group: navigation
 
 # What is the next sprint about?
 
-The date and theme of the next sprint are yet to be announced. Join the <a href="http://groups.google.com/group/fsharp-opensource">F# Open Source mailing list</a> to receive updates.
+The next sprint, will be held on **Saturday 23rd Match** 2013 starting from **10am**! The topic for the day has yet to be decided.
+
+This is the occasion for you to **get real** and hands-on with F#, learn from the best, and be **enabled** to author and contribute to F#.
 
 
 ---
